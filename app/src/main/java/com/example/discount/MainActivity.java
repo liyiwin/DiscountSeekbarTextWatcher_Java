@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
              @Override
              public void afterTextChanged(Editable s) {
 
-                    int my_inpute = 0;
+                   int my_inpute = 0;
 
                    if(editText.getText().toString().equals(""))  my_inpute = 0;
 
